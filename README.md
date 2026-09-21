@@ -44,8 +44,8 @@ Three standalone scripts cover the full analytics lifecycle:
 
 | Script | Purpose |
 |--------|---------|
-| `analysis.py` | SQL business analysis + CEO executive report |
-| `charts.py` | 6 business-intelligence charts (PNG) |
+| `sql_analysis.py` | SQL business analysis + CEO executive report |
+| `visualization.py` | 6 business-intelligence charts (PNG) |
 | `export_data.py` | CSV export for Power BI ingestion |
 
 ---
