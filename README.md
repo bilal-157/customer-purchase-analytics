@@ -28,6 +28,7 @@ Three standalone scripts cover the full analytics lifecycle:
 | `charts.py` | 6 business-intelligence charts (PNG) |
 | `export_data.py` | CSV export for Power BI ingestion |
 
+
 ---
 
 ## ✨ Features
